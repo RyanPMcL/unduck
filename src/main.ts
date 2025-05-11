@@ -43,11 +43,11 @@ function noSearchDefaultPageRender() {
         <p class="current-bang">Current Default Bang: !G (Google)</p>
       </div>
       <footer class="footer">
-        <a href="https://github.com/shaijyy" target="_blank">shaijyy</a>
+        <a href="https://github.com/RyanPMcL" target="_blank">Ryan McLaughlin</a>
         •
-        <a href="https://github.com/shaijyy/unduck" target="_blank">source code</a>
+        <a href="https://github.com/RyanPMcL/unduck" target="_blank">Source</a>
         •
-        <a href="#" onClick="changeDefaultBang()" class="bang-toggle">change default !bang</a>
+        <a href="#" onClick="changeDefaultBang()" class="bang-toggle">Change Default !Bang</a>
       </footer>
     </div>
   `;
