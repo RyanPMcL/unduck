@@ -21,7 +21,7 @@ Simply append or prepend an exclamation mark to the search term.
 ## Why is this the best version of Unduck?
 
 More feature rich than the original by theo/t3.  
-I'm not "debugging in prod cuz why not lol" like shaijyy, because I rely on this working daily.  
+I'm not "debugging in prod cuz why not lol", because I rely on this working daily.  
 
 ## Problems?
 
